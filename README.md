@@ -1,7 +1,7 @@
 ### Prazer, João lucas 👋
 
 
-- 🔭 Trabalho com suporte, mas em busca pela vaga de back end
-- 🌱 Estudando Node.js
+- 🔭 Trabalho como Analista de Dados, no desenvolvimento dashboard, usando Python, oracle
+- 🌱 Estudando Python, Oracle
 - 👯 Contate-me: joaolucaspereira2002@gmail.com
 
